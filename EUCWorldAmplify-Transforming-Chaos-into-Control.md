@@ -1,4 +1,6 @@
 # EUC World Amplify
+<img width="1660" height="660" alt="image" src="https://github.com/user-attachments/assets/4e384832-1bf8-4bef-9940-657dde5db001" />
+
 ## Transforming Chaos into Control: Mastering Windows App Deployments with Intune
 All the blog posts and links mentioned in the presentation.
 ##
