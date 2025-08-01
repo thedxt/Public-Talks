@@ -18,19 +18,15 @@ All the blog posts and links mentioned in the presentation.
 ##
 ### [Install Matrix](https://github.com/thedxt/Install-Matrix)
 
+
 ##
 ### [Intune Win32 Packaging](https://thedxt.ca/2025/07/intune-win32-packaging/)
 [<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/1eba6882-6a7d-4767-89e3-cad69e55c8d2" />](https://thedxt.ca/2025/07/intune-win32-packaging/)
 
-##
-### [32-bit on Windows 64-bit](https://thedxt.ca/2025/03/32-bit-on-windows-64-bit/)
-[<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/f1877d53-56bc-468b-bff4-d8f9eb04065c" />](https://thedxt.ca/2025/03/32-bit-on-windows-64-bit/)
 
 ##
 ### Extra Links
 [WinGet Public Repo](https://github.com/microsoft/winget-pkgs)
-
-[Innoextract](https://constexpr.org/innoextract/)
 
 [USSF - Universal Silent Switch Finder](https://github.com/alexandruavadanii/USSF)
 
