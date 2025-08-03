@@ -4,6 +4,18 @@
 ## Transforming Chaos into Control: Mastering Windows App Deployments with Intune
 All the blog posts and links mentioned in the presentation.
 ##
+### [Download the PowerPoint](https://dxt.zip/eucamp-pptx)
+
+##
+### Social Media
+* [Twitter/X](https://x.com/thedxt)
+* [BlueSky](https://bsky.app/profile/thedxt.bsky.social)
+* [Threads](https://www.threads.com/@thedxt)
+* [LinkedIn](https://www.linkedin.com/in/thedxt/)
+* [Mastodon](https://infosec.exchange/@thedxt)
+* [Facebook](https://www.facebook.com/theDXTcreator)
+
+##
 ### [Intune Deploy Company Portal for Windows](https://thedxt.ca/2024/08/intune-deploy-company-portal-for-windows/)
 [<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/4510d149-c9da-4cd0-bd54-c569dc857f5b" />](https://thedxt.ca/2024/08/intune-deploy-company-portal-for-windows/)
 
