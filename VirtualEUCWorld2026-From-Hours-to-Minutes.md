@@ -4,7 +4,7 @@
 ## From Hours to Minutes: Intune App Deployment Made Simple
 All the blog posts and links mentioned in the presentation.
 ##
-### [Download the PowerPoint](https://dxt.zip/eucamp-pptx)
+### [Download the PowerPoint](https://dxt.zip/eucwv2026-pptx)
 
 ##
 ### Social Media
