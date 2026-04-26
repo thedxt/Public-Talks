@@ -1,0 +1,50 @@
+# EUC World Virtual 2026
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/63a6a58a-d7c6-42b0-bfb9-263432c27734" />
+
+## From Hours to Minutes: Intune App Deployment Made Simple
+All the blog posts and links mentioned in the presentation.
+##
+### [Download the PowerPoint](https://dxt.zip/eucwv2026-pptx)
+
+##
+### Social Media
+* [Twitter/X](https://x.com/thedxt)
+* [BlueSky](https://bsky.app/profile/thedxt.bsky.social)
+* [Threads](https://www.threads.com/@thedxt)
+* [LinkedIn](https://www.linkedin.com/in/thedxt/)
+* [Mastodon](https://infosec.exchange/@thedxt)
+* [Facebook](https://www.facebook.com/theDXTcreator)
+
+##
+### [Intune Deploy Company Portal for Windows](https://thedxt.ca/2024/08/intune-deploy-company-portal-for-windows/)
+[<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/4510d149-c9da-4cd0-bd54-c569dc857f5b" />](https://thedxt.ca/2024/08/intune-deploy-company-portal-for-windows/)
+
+##
+### [PowerShell ProgressPreference Issue](https://thedxt.ca/2025/02/powershell-progresspreference/)
+[<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/3111fa62-a7bc-43a9-82e0-19b9ea3aa4c3" />](https://thedxt.ca/2025/02/powershell-progresspreference/)
+
+##
+### [Shlink with Docker and Cloudflare Tunnel](https://thedxt.ca/2024/11/shlink-with-docker-and-cloudflare-tunnel/)
+[<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/cd97c4cc-d8af-4133-a7a1-c5ad68ab1ea4" />](https://thedxt.ca/2024/11/shlink-with-docker-and-cloudflare-tunnel/)
+
+##
+### [Install Matrix GitHub](https://github.com/thedxt/Install-Matrix)
+
+### [Install Matrix Blog](https://thedxt.ca/2026/01/install-matrix/)
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/c4d61d11-d76c-44a0-a34a-c70bac859f8c" />
+
+
+##
+### [Intune Win32 Packaging](https://thedxt.ca/2025/07/intune-win32-packaging/)
+[<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/1eba6882-6a7d-4767-89e3-cad69e55c8d2" />](https://thedxt.ca/2025/07/intune-win32-packaging/)
+
+
+##
+### Extra Links
+[WinGet Public Repo](https://github.com/microsoft/winget-pkgs)
+
+[USSF - Universal Silent Switch Finder](https://github.com/alexandruavadanii/USSF)
+
+[IconViewer](https://www.botproductions.com/iconview/iconview.html)
+
+[NirSoft IconsExtract](https://www.nirsoft.net/utils/iconsext.html)
