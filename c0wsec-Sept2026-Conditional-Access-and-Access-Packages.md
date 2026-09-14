@@ -6,7 +6,7 @@
 
 All the blog posts and links mentioned in the presentation.
 ##
-### [Download the PowerPoint](https://dxt.zip/c0wsec2026-pptx)
+### [Download the PowerPoint](https://get.dxt.dev/c0wsec%20Conditional%20Access%20Packages.pptx)
 
 ##
 ### Social Media
