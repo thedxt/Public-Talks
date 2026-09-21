@@ -1,6 +1,6 @@
 # Public Talks
 
-## EUC World Amplify 2026 (September 2025)
+## EUC World Amplify 2026 (September 2026)
 [Passport to Protection: Entra Conditional Access Policies for Travelers](EUCWorldAmplify2026-Passport-to-Protection.md)
 
 ## c0wsec (September 2026)
